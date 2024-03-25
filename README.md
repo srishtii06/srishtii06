@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srishtii06
-- 👀 I’m interested in Python and Web development.
-- 🌱 I’m currently learning Web development.
+- 👀 I’m interested in Python, Web development,Data Analysis and Machine Learning Techniques.
+- 🌱 I’m currently learning Web development and AI.
 - 💞️ I’m looking to collaborate on Projects involving backend work using Python.
 - 📫 How to reach me Github or my Linkedin.
 
